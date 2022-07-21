@@ -73,4 +73,4 @@ Kohls.com is leading E-Commerce website for all type of Clothings for men, women
 
 ## Authors
 
-- [@Akshay Patil](https://github.com/AlskayPatil96)
+- [@Aditya Kumar](https://github.com/Adityaprajapati26)
